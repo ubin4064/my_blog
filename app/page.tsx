@@ -126,10 +126,9 @@ export default async function Home() {
       {/* Hero 섹션 */}
       <section className="text-center mb-20">
         <div className="max-w-4xl mx-auto">          <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 bg-gradient-to-r from-primary via-purple-600 to-blue-600 bg-clip-text text-transparent">
-            Yerin Baek Fan Blog
-          </h1>
-          <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-8 leading-relaxed">
-            Yerin Baek의 음악과 여정을 함께 나누는 공간입니다. 최신 소식과 팬들의 이야기를 만나보세요.
+            백예린 팬 블로그
+          </h1><p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-8 leading-relaxed">
+            백예린의 팬이 되어보세요.
           </p>
           
           {/* CTA 버튼들 */}
